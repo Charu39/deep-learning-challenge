@@ -7,7 +7,7 @@ The neural network aggregates several related features per organxzation to attem
 # Results
 ## Data Preprocessing
 
-- The following features that were removed from the dataset we 'EIN' and 'NAME' columns as these do not play any role in determining the success or failure of an organization. 
+- The features that were removed from the dataset we 'EIN' and 'NAME' columns as these do not play any role in determining the success or failure of an organization. 
 
 - The following features were converted to numerical values for the analysis. 
 - APPLICATION_TYPE
