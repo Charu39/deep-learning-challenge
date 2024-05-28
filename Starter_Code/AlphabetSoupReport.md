@@ -34,7 +34,7 @@ Overall this analysis involved creating and evaluating a deep learning neural mo
 
 - Ensemble Methods: Combine multiple models (e.g., Random Forest, Gradient Boosting) to leverage the strengths of individual models and improve overall performance
 
-Model Selection: Experiment with different algorithms or ensemble methods to see which one performs best for the specific problem as per the goals and guidelines of Alphabet Soup.
+- Model Selection: Experiment with different algorithms or ensemble methods to see which one performs best for the specific problem as per the goals and guidelines of Alphabet Soup.
 
 
 
