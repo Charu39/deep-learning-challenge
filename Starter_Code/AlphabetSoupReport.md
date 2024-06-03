@@ -26,7 +26,7 @@ The neural network aggregates several related features per organxzation to attem
 - The current model consists of two hidden layers. Layer one has  rectified linear unit(relu) and activation with 15 neurons, layer two has relu activation with 20 neurons.
 - Traget performace was not achieved 
 - The model was trained for 50 epochs and the accuracy was 73.06%
-- Additional attempts were made by adding hidden layers and more neurons in order to achieve higher accuracy percentage. 
+- Additional attempts were made by adding hidden layers and more neurons in order to achieve higher accuracy percentage as can be seen in AlphabetSoupCharity_optimization.ipynb file where we could just achieve the accuracy rate of 73.13% which was slightly higher but still not over the target rate.
 
 ## Summary  
 Overall this analysis involved creating and evaluating a deep learning neural model to predict the success of charitable organizations receiving funding from Alphabet Soup. This model was able to acheive an accuracy of 73.06%. To achieve better accuracy score we can implement foloowing strategies:
